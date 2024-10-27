@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&pause=1000&multiline=true&width=435&lines=QA+Engineer+%7C+Manual++Tester+%7C+QA+Analyst;" alt="Typing SVG" /></a>
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=27F755&width=435&lines=JIRA+%7C+HP+ALM+%7C+Azure+%7C+Microsoft+Office+;" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=27F755&width=435&lines=JIRA+%7C+Postman+%7C+UI+%7C+Microsoft+Office+;" alt="Typing SVG" /></a>
 </div>
 
 <!--- 
